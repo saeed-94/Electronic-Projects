@@ -1,13 +1,6 @@
 <!-- Add this at the top of your README file -->
 
-<details>
-  <summary>Select Language / انتخاب زبان</summary>
 
-  ### Choose Your Language / زبان خود را انتخاب کنید
-
-  - [English](#english)
-  - [فارسی](#فارسی)
-</details>
 
 <details id="english">
   <summary>English</summary>
@@ -104,16 +97,6 @@ With this repository, we hope to elevate your electronic and bioelectric capabil
 # الکترونیک و پروژه‌های بیوالکتریکی: **راهنمای پیشرفته**
 
 ## **فهرست مطالب**
-
-- [Electronic and Bioelectric Projects: **Advanced Guide**](#electronic-and-bioelectric-projects-advanced-guide)
-  - [**Table of Contents**](#table-of-contents)
-  - [**PCB Design**](#pcb-design)
-  - [**Arduino Simulation and Serial Communication with GUI**](#arduino-simulation-and-serial-communication-with-gui)
-  - [**LM35 Simulation on PIC Microcontrollers and Graphical Simulation in Labview**](#lm35-simulation-on-pic-microcontrollers-and-graphical-simulation-in-labview)
-  - [**Biomedical Projects**](#biomedical-projects)
-    - [**ECG Board Design**](#ecg-board-design)
-    - [**ECG Signal Simulation**](#ecg-signal-simulation)
-    - [**Advanced Biomedical Projects**](#advanced-biomedical-projects)
 - [الکترونیک و پروژه‌های بیوالکتریکی: **راهنمای پیشرفته**](#الکترونیک-و-پروژههای-بیوالکتریکی-راهنمای-پیشرفته)
   - [**فهرست مطالب**](#فهرست-مطالب)
   - [**طراحی PCB**](#طراحی-pcb)
