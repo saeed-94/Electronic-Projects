@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-27022013-123083";"";
+"REFERENCE";"3361P-1-103GLF";"";
+"TraceParts.PartTitle";"SMD single turn trimmer 10K 10% top adj";"";
+"TraceParts.InstanceId";"10-27022013-123083ED0OZBNLWK06A6NGTPLDT0R2M";"";
+"DESIGN";"SMD single turn trimmer 10K 10% top adj";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"BOURNS";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BOURNS:10-27022013-123083";"";

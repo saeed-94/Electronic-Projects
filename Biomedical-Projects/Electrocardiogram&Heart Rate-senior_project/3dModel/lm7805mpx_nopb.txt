@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-13012020-060707";"";
+"REFERENCE";"LM7805MPX/NOPB";"";
+"TraceParts.PartTitle";"Integrated Circuit SOT223 (3-Pin) - LM7805MP/NOPB, LM7805MPX/NOPB";"";
+"TraceParts.InstanceId";"33-13012020-0607074ILO346EZDLF177INEEDKSP0Z";"";
+"DESIGN";"Integrated Circuit SOT223 (3-Pin) - LM7805MPX/NOPB";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Texas Instruments";"";
+"TraceParts.PartVersion";"1.2.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TEXAS_INSTRUMENTS:33-13012020-060707";"";
