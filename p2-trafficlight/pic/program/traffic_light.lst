@@ -1,0 +1,135 @@
+CCS PCM C Compiler, Version 5.049, 5967               17-Nov-19 23:15
+
+               Filename:   C:\Users\Saeed\Documents\project\p2-trafficlight\pic\program\traffic_light.lst
+
+               ROM used:   71 words (14%)
+                           Largest free fragment is 441
+               RAM used:   5 (8%) at main() level
+                           6 (9%) worst case
+               Stack used: 0 locations
+               Stack size: 8
+
+*
+0000:  MOVLW  00
+0001:  MOVWF  0A
+0002:  GOTO   017
+0003:  NOP
+.................... #include <traffic_light.h> 
+....................  
+....................  
+....................  
+.................... #include <10LF322.h> 
+.................... //////////// Standard Header file for the PIC10LF322 device //////////////// 
+.................... /////////////////////////////////////////////////////////////////////////// 
+.................... ////        (C) Copyright 1996, 2014 Custom Computer Services          //// 
+.................... //// This source code may only be used by licensed users of the CCS C  //// 
+.................... //// compiler.  This source code may only be distributed to other      //// 
+.................... //// licensed users of the CCS C compiler.  No other use, reproduction //// 
+.................... //// or distribution is permitted without written permission.          //// 
+.................... //// Derivative programs created using this software in object code    //// 
+.................... //// form are not restricted in any way.                               //// 
+.................... /////////////////////////////////////////////////////////////////////////// 
+.................... #device PIC10LF322 
+....................  
+.................... #list 
+....................  
+.................... #use delay(clock=20000000) 
+0004:  MOVLW  46
+0005:  MOVWF  04
+0006:  MOVF   00,W
+0007:  BTFSC  03.2
+0008:  GOTO   016
+0009:  MOVLW  06
+000A:  MOVWF  41
+000B:  CLRF   40
+000C:  DECFSZ 40,F
+000D:  GOTO   00C
+000E:  DECFSZ 41,F
+000F:  GOTO   00B
+0010:  MOVLW  7B
+0011:  MOVWF  40
+0012:  DECFSZ 40,F
+0013:  GOTO   012
+0014:  DECFSZ 00,F
+0015:  GOTO   009
+0016:  RETURN
+.................... #use FIXED_IO( A_outputs=PIN_A2,PIN_A1,PIN_A0 ) 
+....................  
+.................... void main() 
+0017:  MOVF   03,W
+0018:  ANDLW  1F
+0019:  MOVWF  03
+001A:  CLRF   08
+.................... { 
+....................  
+....................    while(TRUE) 
+....................    { 
+.................... output_low(PIN_A0); 
+001B:  MOVLW  F8
+001C:  MOVWF  06
+001D:  BCF    05.0
+.................... output_low(PIN_A1); 
+001E:  MOVWF  06
+001F:  BCF    05.1
+.................... output_high(PIN_A2); 
+0020:  MOVWF  06
+0021:  BSF    05.2
+.................... delay_ms( 6000 ); 
+0022:  MOVLW  18
+0023:  MOVWF  45
+0024:  MOVLW  FA
+0025:  MOVWF  46
+0026:  CALL   004
+0027:  DECFSZ 45,F
+0028:  GOTO   024
+.................... output_low(PIN_A0); 
+0029:  MOVLW  F8
+002A:  MOVWF  06
+002B:  BCF    05.0
+.................... output_high(PIN_A1); 
+002C:  MOVWF  06
+002D:  BSF    05.1
+.................... output_low(PIN_A2); 
+002E:  MOVWF  06
+002F:  BCF    05.2
+.................... delay_ms( 2000 ); 
+0030:  MOVLW  08
+0031:  MOVWF  45
+0032:  MOVLW  FA
+0033:  MOVWF  46
+0034:  CALL   004
+0035:  DECFSZ 45,F
+0036:  GOTO   032
+.................... output_high(PIN_A0); 
+0037:  MOVLW  F8
+0038:  MOVWF  06
+0039:  BSF    05.0
+.................... output_low(PIN_A1); 
+003A:  MOVWF  06
+003B:  BCF    05.1
+.................... output_low(PIN_A2); 
+003C:  MOVWF  06
+003D:  BCF    05.2
+.................... delay_ms( 6000 ); 
+003E:  MOVLW  18
+003F:  MOVWF  45
+0040:  MOVLW  FA
+0041:  MOVWF  46
+0042:  CALL   004
+0043:  DECFSZ 45,F
+0044:  GOTO   040
+0045:  GOTO   01B
+....................  
+....................  
+....................  
+....................  
+....................  
+....................  
+....................        
+....................    } 
+....................  
+.................... } 
+0046:  SLEEP
+
+Configuration Fuses:
+   Word  1: 3EC7   EC BROWNOUT NOWDT PUT MCLR NOPROTECT NOLVP LPBOR BORV19 NOWRT NODEBUG

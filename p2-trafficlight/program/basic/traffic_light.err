@@ -1,0 +1,1 @@
+Error : 22    Line :   21    Out of SRAM space [*CHECK $HWSTACK,$SWSTACK,$FRAMESIZE]  , in File : C:\Users\Saeed\Documents\project\p2-trafficlight\program\basic\traffic_light.bas

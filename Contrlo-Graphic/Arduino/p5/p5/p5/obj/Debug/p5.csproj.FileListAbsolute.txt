@@ -1,0 +1,13 @@
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\bin\Debug\p5.exe.config
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\bin\Debug\p5.exe
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\bin\Debug\p5.pdb
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\obj\Debug\p5.csprojResolveAssemblyReference.cache
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\obj\Debug\p5.Form1.resources
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\obj\Debug\p5.Properties.Resources.resources
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\obj\Debug\p5.csproj.GenerateResource.Cache
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\obj\Debug\p5.exe
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p5\p5\p5\obj\Debug\p5.pdb

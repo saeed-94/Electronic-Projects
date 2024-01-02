@@ -1,0 +1,37 @@
+[PROJECT]
+Target=PIC_LM35_Labview.hex
+Processor_Text=PIC16F877A
+CCSVersion=5.049
+Compiler=PCM
+[Target Data]
+FileList=PIC_LM35_Labview.c
+[PIC_LM35_Labview.c]
+Type=4
+[mru-list]
+1=PIC_LM35_Labview.c
+
+[defines]
+buildcount=15
+
+[Opened Files]
+1=PIC_LM35_Labview.c
+t1=1
+2=D:\Program Files (x86)\PICC\Drivers\lcd.c
+t2=5
+Count=2
+
+[ProjectLog]
+Days=1
+D1=05-06-2020
+D1_L=4
+D1_L1=[7084]Stopped Editing.
+D1_L2=[7125]Started Editing.
+D1_L3=[8330]Stopped Editing.
+TotalEdit=39
+TotalDebug=0
+D1_E=39
+D1_D=0
+D1_L4=[9205]Project Closed.
+[Units]
+Count=1
+1=PIC_LM35_Labview (main)

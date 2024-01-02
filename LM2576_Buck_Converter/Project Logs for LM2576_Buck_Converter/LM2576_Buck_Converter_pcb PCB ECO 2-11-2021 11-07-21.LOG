@@ -1,0 +1,32 @@
+Added Component: Designator=C1(C_elec - duplicate)
+Added Component: Designator=C2(C_elec - duplicate)
+Added Component: Designator=D1(1N5822 - duplicate1)
+Added Component: Designator=J1(2PIN_Connector)
+Added Component: Designator=J2(2PIN_Connector)
+Added Component: Designator=L1(150uH Indicator - duplicate)
+Added Component: Designator=R1(variabel resistor - duplicate)
+Added Component: Designator=R2(R(0805))
+Added Component: Designator=U1(LM2576 - duplicate)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetC1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Pin To Net: NetName=NetC2_1 Pin=L1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R1-3
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=R2-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=NetD1_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetR1_2 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5

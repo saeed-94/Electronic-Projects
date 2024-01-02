@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=RESET Pin=S1-3
+Removed Pin From Net: NetName=RESET Pin=S1-4
+Change Component Footprint: Designator=S1 Old Footprint=Switch New Footprint=Switch Reset
+Change Component Comment : Designator=S1 Old Comment=Switch New Comment=PTS636SMG25JSMTRLFS
+Change component parameters: Designator = "S1" ("S1"); Footprint = "Switch"; UniqueID = "\EXHXEFJA" ("\EXHXEFJA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ITT C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PTS636SMG25JSMTRLFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "3000=0.09210, 6000=0.07530, 9000=0.07460, 15000=0.07370 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "7113405"; VariantName = "[No Variations]"

@@ -1,0 +1,54 @@
+[PROJECT]
+Target=8flasher.hex
+Processor_Text=PIC16C61
+CCSVerions=5.049
+Compiler=PCM
+CCSVersion=5.049
+[Target Data]
+FileList=8flasher.c
+[Directories]
+Include=
+[C:\Users\Saeed\Documents\project\p1-8flasher\pic\program\8flasher]
+Type=4
+[mru-list]
+1=8flasher.c
+
+[ProjectLog]
+Days=2
+D1=17-11-2019
+D1_L=4
+D1_L1=[85360]Stopped Editing.
+TotalEdit=113
+TotalDebug=0
+D1_E=15
+D1_D=0
+D1_L2=[85360]Project Closed.
+D1_L3=[85360]Project Opened.
+D1_L4=[85387]Started Editing.
+D2=18-11-2019
+D2_L=8
+D2_L1=[2724]Stopped Editing.
+D2_E=98
+D2_D=0
+D2_L2=[2724]Project Closed.
+D2_L3=[36151]Project Opened.
+D2_L4=[36321]Started Editing.
+D2_L5=[37331]Stopped Editing.
+D2_L6=[37647]Started Editing.
+D2_L7=[38995]Stopped Editing.
+D2_L8=[38995]Project Closed.
+
+[Opened Files]
+1=8flasher.c
+t1=1
+2=8flasher.h
+t2=1
+Count=1
+[8flasher.c]
+Type=4
+
+[defines]
+buildcount=95
+[Units]
+Count=1
+1=8flasher (main)

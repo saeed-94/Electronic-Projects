@@ -1,0 +1,58 @@
+004     @WRITE_PROGRAM_MEMORY8.P1
+004-005 @READ_PROGRAM_MEMORY8.P2
+016.5   PWM1OUT
+019.5   PWM2OUT
+020-021 @READ_PROGRAM_MEMORY8.P1
+020-021 @WRITE_PROGRAM_MEMORY8.P2
+02D.5   N1OUT
+031.5   LC1OUT
+040     @SCRATCH
+041     @SCRATCH
+041     _RETURN_
+042     @SCRATCH
+043     @SCRATCH
+045     main.@SCRATCH1
+046     @delay_ms1.P1
+
+ROM Allocation:
+000004  @delay_ms1
+000017  @cinit1
+000017  main
+00001B  @cinit2
+
+Project Directory:
+    C:\Users\Saeed\Documents\project\p2-trafficlight\pic\program\
+
+Project Files:
+    traffic_light.c                                         [17-Nov-19 23:15  CRC=5892C01E]
+    traffic_light.h                                         [17-Nov-19 23:15  CRC=00000000]
+    D:\Program Files (x86)\PICC\Devices\10LF322.h           [08-Sep-15 15:14  CRC=D053A5D5]
+
+Source signature=F93A0BC8
+Program memory checksum=0000
+Program memory CRC=0000
+Hex file CRC=AF26
+
+Units:
+    traffic_light (main)
+
+Compiler Settings:
+    Processor:      PIC10LF322
+    Pointer Size:   8
+    ADC Range:      0-255
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Compile Mode:       CCS5
+
+Output Files:
+    XREF file:   traffic_light.xsym
+    Errors:      traffic_light.err
+    Ext Symbols: traffic_light.esym
+    INHX8:       traffic_light.hex
+    Symbols:     traffic_light.sym
+    List:        traffic_light.lst
+    Debug/COFF:  traffic_light.cof
+    Project:     traffic_light.ccspjt
+    Call Tree:   traffic_light.tre
+    Statistics:  traffic_light.STA

@@ -1,0 +1,30 @@
+#include <8flasher.h>
+#include <16C61.h>
+#use delay (clock=20000000)
+#use FIXED_IO( B_outputs=PIN_B7,PIN_B6,PIN_B5,PIN_B4,PIN_B3,PIN_B2,PIN_B1,PIN_B0 )
+void main()
+{
+
+   while(TRUE)
+   {
+output_b(1);
+delay_ms(80);
+output_b(2);
+delay_ms(80);
+output_b(4);
+delay_ms(80);
+output_b(16);
+delay_ms(80);
+output_b(32);
+delay_ms(80);
+output_b(64);
+delay_ms(80);
+output_b(128);
+delay_ms(80);
+
+
+}
+
+}
+
+

@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Saeed\Documents\Altium Projects\USBASP\USBasp_saeedGhorbani\PCB_Project\USBasp.PcbDoc
+Date         : 5/13/2021
+Time         : 12:42:35 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 53mmx26.9mm
+    Components on board, 34
+count : 2

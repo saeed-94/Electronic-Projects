@@ -1,0 +1,4 @@
+>>> Warning 202 "PIC_LM35_Labview.c" Line 11(7,12): Variable never used:   temp2
+      Memory usage:   ROM=6%      RAM=3% - 8%
+      0 Errors,  1 Warnings.
+Build Successful.

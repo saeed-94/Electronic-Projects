@@ -1,0 +1,34 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAPC3413X12N New Footprint=CAPC3413X12N
+Change Physical Footprint: Designator=C2 Old Footprint=CAPC3413X12N New Footprint=CAPC3413X12N
+Change Physical Footprint: Designator=C3 Old Footprint=CAPP 1206 (3216X18L) Size A New Footprint=CAPP 1206 (3216X18L) Size A
+Change Physical Footprint: Designator=C4 Old Footprint=CAPP 1206 (3216X18L) Size A New Footprint=CAPP 1206 (3216X18L) Size A
+Change Physical Footprint: Designator=C5 Old Footprint=SMD_CAP_0805 New Footprint=SMD_CAP_0805
+Change Physical Footprint: Designator=C6 Old Footprint=SMD_CAP_0805 New Footprint=SMD_CAP_0805
+Change Physical Footprint: Designator=F1 Old Footprint=1206 FUSE New Footprint=1206 FUSE
+Change Physical Footprint: Designator=IC1 Old Footprint=32A_N New Footprint=32A_N
+Change Physical Footprint: Designator=IDC1 Old Footprint=IDC2.54-10PIN - CROSS New Footprint=IDC2.54-10PIN - CROSS
+Change Physical Footprint: Designator=JP1 Old Footprint=JP254_V New Footprint=JP254_V
+Change Physical Footprint: Designator=JP2 Old Footprint=JP254_V New Footprint=JP254_V
+Change Physical Footprint: Designator=JP3 Old Footprint=JP254_V New Footprint=JP254_V
+Change Physical Footprint: Designator=L1 Old Footprint=INDC1608L New Footprint=INDC1608L
+Change Physical Footprint: Designator=LED1 Old Footprint=LED SMD 1206 New Footprint=LED SMD 1206
+Change Physical Footprint: Designator=LED2 Old Footprint=LED SMD 1206 New Footprint=LED SMD 1206
+Change Physical Footprint: Designator=LED3 Old Footprint=LED SMD 1206 New Footprint=LED SMD 1206
+Change Physical Footprint: Designator=P1 Old Footprint=USB A TYPE Right Angle New Footprint=USB A TYPE Right Angle
+Change Physical Footprint: Designator=Q1 Old Footprint=SOT23_BEC_N New Footprint=SOT23_BEC_N
+Change Physical Footprint: Designator=R1 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R2 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R3 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R4 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R5 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R6 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R7 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R8 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R9 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R10 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R11 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R12 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=R13 Old Footprint=RESC3413X04N New Footprint=RESC3413X04N
+Change Physical Footprint: Designator=S1 Old Footprint=SW-PB New Footprint=SW-PB
+Change Physical Footprint: Designator=S2 Old Footprint=SW-PB New Footprint=SW-PB
+Change Physical Footprint: Designator=Y1 Old Footprint=Crystal SMD New Footprint=Crystal SMD

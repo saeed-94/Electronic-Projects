@@ -1,0 +1,51 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+00C     @SCRATCH
+00D     @SCRATCH
+00D     _RETURN_
+00E     @SCRATCH
+00F     @SCRATCH
+011     main.data
+012     @delay_ms1.P1
+10D-10E @READ_PROGRAM_MEMORY8.P1
+
+ROM Allocation:
+000004  @delay_ms1
+000017  @cinit1
+000017  main
+00001A  @cinit2
+
+Project Directory:
+    C:\Users\Saeed\Documents\project\p1-8flasher\pic\program\
+
+Project Files:
+    8flasher.c                                              [18-Nov-19 10:49  CRC=E4670BCE]
+    8flasher.h                                              [17-Nov-19 23:43  CRC=00000000]
+    D:\Program Files (x86)\PICC\Devices\16C61.h             [08-Sep-15 15:14  CRC=CA6AB634]
+
+Source signature=793C7836
+Program memory checksum=0000
+Program memory CRC=0000
+Hex file CRC=735C
+
+Units:
+    8flasher (main)
+
+Compiler Settings:
+    Processor:      PIC16C61
+    Pointer Size:   8
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Compile Mode:       CCS5
+
+Output Files:
+    XREF file:   8flasher.xsym
+    Errors:      8flasher.err
+    Ext Symbols: 8flasher.esym
+    INHX8:       8flasher.hex
+    Symbols:     8flasher.sym
+    List:        8flasher.lst
+    Debug/COFF:  8flasher.cof
+    Project:     8flasher.ccspjt
+    Call Tree:   8flasher.tre
+    Statistics:  8flasher.STA

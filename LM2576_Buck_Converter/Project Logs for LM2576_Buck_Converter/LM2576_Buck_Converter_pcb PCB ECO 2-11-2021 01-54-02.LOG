@@ -1,0 +1,5 @@
+Added Component: Designator=D1(1N5822 - duplicate1)
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetD1_Cathode Pin=D1-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Change Net Name : Old Net Name=NetD1_Cathode New Net Name=NetD1_2

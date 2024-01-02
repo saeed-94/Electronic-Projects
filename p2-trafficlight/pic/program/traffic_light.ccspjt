@@ -1,0 +1,34 @@
+[PROJECT]
+Target=traffic_light.hex
+Processor_Text=PIC10LF322
+CCSVerions=5.049
+Compiler=PCM
+CCSVersion=5.049
+[Target Data]
+FileList=traffic_light.c
+[Directories]
+Include=
+[C:\Users\Saeed\Documents\project\p2-trafficlight\pic\program\traffic_light]
+Type=4
+[mru-list]
+1=traffic_light.c
+
+[ProjectLog]
+Days=1
+D1=17-11-2019
+D1_L=2
+D1_L1=[83697]Project Opened.
+D1_L2=[83702]Started Editing.
+
+[Opened Files]
+1=traffic_light.c
+t1=1
+Count=1
+[traffic_light.c]
+Type=4
+[Units]
+Count=1
+1=traffic_light (main)
+
+[defines]
+buildcount=1

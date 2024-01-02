@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetD1_Cathode Pin=L1-1
+Added Pin To Net: NetName=NetD1_Cathode Pin=U1-2
+Added Net: Name=NetD1_Cathode

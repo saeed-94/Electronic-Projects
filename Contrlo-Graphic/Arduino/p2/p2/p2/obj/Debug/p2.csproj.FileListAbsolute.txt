@@ -1,0 +1,9 @@
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p2\p2\p2\bin\Debug\p2.exe.config
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p2\p2\p2\bin\Debug\p2.exe
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p2\p2\p2\bin\Debug\p2.pdb
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p2\p2\p2\obj\Debug\p2.csprojResolveAssemblyReference.cache
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p2\p2\p2\obj\Debug\p2.Form1.resources
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p2\p2\p2\obj\Debug\p2.Properties.Resources.resources
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p2\p2\p2\obj\Debug\p2.csproj.GenerateResource.Cache
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p2\p2\p2\obj\Debug\p2.exe
+C:\Users\Saeed\Documents\project\Contrlo-Graphic\Arduino\p2\p2\p2\obj\Debug\p2.pdb

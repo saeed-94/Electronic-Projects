@@ -1,0 +1,222 @@
+ (routes 
+  (resolution mm 100000)
+  (parser
+  )
+  (parser
+  )
+  (structure_out
+   (layer TOP (type signal)
+   )
+   (layer I1 (type signal)
+   )
+   (layer I2 (type signal)
+   )
+   (layer I3 (type signal)
+   )
+   (layer I4 (type signal)
+   )
+   (layer I5 (type signal)
+   )
+   (layer I6 (type signal)
+   )
+   (layer I7 (type signal)
+   )
+   (layer I8 (type signal)
+   )
+   (layer I9 (type signal)
+   )
+   (layer I10 (type signal)
+   )
+   (layer I11 (type signal)
+   )
+   (layer I12 (type signal)
+   )
+   (layer I13 (type signal)
+   )
+   (layer I14 (type signal)
+   )
+   (layer BOT (type signal)
+   )
+  )
+  (library_out
+  (padstack $VIA#0_SIGNAL
+   (shape (circ TOP 76200 0 0))
+   (shape (circ I1 76200 0 0))
+   (shape (circ I2 76200 0 0))
+   (shape (circ I3 76200 0 0))
+   (shape (circ I4 76200 0 0))
+   (shape (circ I5 76200 0 0))
+   (shape (circ I6 76200 0 0))
+   (shape (circ I7 76200 0 0))
+   (shape (circ I8 76200 0 0))
+   (shape (circ I9 76200 0 0))
+   (shape (circ I10 76200 0 0))
+   (shape (circ I11 76200 0 0))
+   (shape (circ I12 76200 0 0))
+   (shape (circ I13 76200 0 0))
+   (shape (circ I14 76200 0 0))
+   (shape (circ BOT 76200 0 0))
+  )
+  (padstack $VIA#0_POWER
+   (shape (circ TOP 76200 0 0))
+   (shape (circ I1 76200 0 0))
+   (shape (circ I2 76200 0 0))
+   (shape (circ I3 76200 0 0))
+   (shape (circ I4 76200 0 0))
+   (shape (circ I5 76200 0 0))
+   (shape (circ I6 76200 0 0))
+   (shape (circ I7 76200 0 0))
+   (shape (circ I8 76200 0 0))
+   (shape (circ I9 76200 0 0))
+   (shape (circ I10 76200 0 0))
+   (shape (circ I11 76200 0 0))
+   (shape (circ I12 76200 0 0))
+   (shape (circ I13 76200 0 0))
+   (shape (circ I14 76200 0 0))
+   (shape (circ BOT 76200 0 0))
+  )
+  )
+  (network_out
+   (Net #00033 
+   (rule
+   )
+   (wire (path BOT 25400  -508000 2032000 -508000 1651000 -381000 1651000
+     -381000 1397000)
+    (connect (terminal pin D1-0) (terminal pin R2-1))
+   )
+   )
+   (Net +5V 
+   (rule
+   )
+   )
+   (Net AD0 
+   (rule
+   )
+   )
+   (Net AD1 
+   (rule
+   )
+   )
+   (Net AD2 
+   (rule
+   )
+   )
+   (Net AD3 
+   (rule
+   )
+   )
+   (Net AD4 
+   (rule
+   )
+   )
+   (Net AD5 
+   (rule
+   )
+   )
+   (Net AREF 
+   (rule
+   )
+   )
+   (Net GND 
+   (rule
+   )
+   (wire (path BOT 25400  -4889500 4635500 -762000 4635500 -762000 2032000)
+    (connect (terminal via) (terminal pin D1-1))
+   )
+   (wire (path TOP 25400  -4953000 5334000 -4953000 5148000)
+    (connect (terminal via) (terminal smd U1-17))
+   )
+   (wire (path BOT 25400  -4889500 4635500 -4889500 5334000 -4953000 5334000)
+    (connect (terminal via) (terminal via))
+   )
+   (wire (path TOP 25400  -4953000 4635500 -4889500 4635500)
+    (connect (terminal wire) (terminal via))
+   )
+   (wire (path TOP 25400  -4953000 4635500 -4953000 4758000)
+    (connect (terminal wire) (terminal smd U1-3))
+   )
+   (via $VIA#0_POWER -4953000 5334000)
+   (via $VIA#0_POWER -4889500 4635500)
+   )
+   (Net IO13 
+   (rule
+   )
+   (wire (path TOP 25400  -1016000 2667000 -1016000 5148000 -4818000 5148000)
+    (connect (terminal via) (terminal smd U1-14))
+   )
+   (wire (path BOT 25400  -1397000 1397000 -1397000 2687292 -1016000 2687292
+     -1016000 2667000)
+    (connect (terminal pin R2-0) (terminal via))
+   )
+   (via $VIA#0_SIGNAL -1016000 2667000)
+   )
+   (Net IO2 
+   (rule
+   )
+   )
+   (Net IO3 
+   (rule
+   )
+   )
+   (Net IO4 
+   (rule
+   )
+   )
+   (Net IO5 
+   (rule
+   )
+   )
+   (Net IO6 
+   (rule
+   )
+   )
+   (Net IO7 
+   (rule
+   )
+   )
+   (Net IO8 
+   (rule
+   )
+   )
+   (Net IO9 
+   (rule
+   )
+   )
+   (Net MISO 
+   (rule
+   )
+   )
+   (Net MOSI 
+   (rule
+   )
+   )
+   (Net RESET 
+   (rule
+   )
+   (wire (path TOP 25400  -8953500 7874000 -8930194 7874000 -8930194 4953000
+     -5148000 4953000)
+    (connect (terminal via) (terminal smd U1-24))
+   )
+   (wire (path BOT 25400  -9271000 7874000 -8953500 7874000)
+    (connect (terminal pin R1-0) (terminal via))
+   )
+   (via $VIA#0_SIGNAL -8953500 7874000)
+   )
+   (Net RXD 
+   (rule
+   )
+   )
+   (Net SS 
+   (rule
+   )
+   )
+   (Net TXD 
+   (rule
+   )
+   )
+   (Net VCC/VDD 
+   (rule
+   )
+   )
+  )
+ )
